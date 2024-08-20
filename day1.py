@@ -13,3 +13,4 @@ displayed on two lines"
 me = ("faizal "
       "salvador "
       "ajibola")
+print(me)
