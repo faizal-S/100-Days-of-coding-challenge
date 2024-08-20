@@ -14,3 +14,16 @@ me = ("faizal "
       "salvador "
       "ajibola")
 print(me)
+#strings concatenation
+first_name = "faizal"
+sur_name = "salvador"
+middle_name = "ajibola"
+full_name = first_name + " " + sur_name
+print (full_name, middle_name)
+#string indexing
+favorite_drink = "orange juice"
+favorite_drink [4]
+#negative indices
+favorite_drink [-3]
+#string slicing
+favorite_drink[1:4]
