@@ -23,7 +23,9 @@ print (full_name, middle_name)
 #string indexing
 favorite_drink = "orange juice"
 favorite_drink [4]
+print (favorite_drink[4])
 #negative indices
 favorite_drink [-3]
 #string slicing
 favorite_drink[1:4]
+print (favorite_drink[1:4])
